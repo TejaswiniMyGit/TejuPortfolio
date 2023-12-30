@@ -2,7 +2,7 @@
 :root{
     --primary:#f4a8cf;
     --dark:#5ab3b7;
-    --pure:#f7f3f3;
+    --pure:hsl(0, 2%, 20%);
     --ternary:#898989;
     --light:#F2F2F2;
     --secondary:#070606;
